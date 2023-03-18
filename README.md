@@ -1,9 +1,9 @@
-[![MasterHead](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1679172775~exp=1679173375~hmac=109f0194affb960cdce2ece80c8071f00b6c82040c6b17559917223f67729931)]
+<!-- ![MasterHead](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1679172775~exp=1679173375~hmac=109f0194affb960cdce2ece80c8071f00b6c82040c6b17559917223f67729931) -->
 
 <h1 align="center">Hi 👋, I'm H. M. Hasib Ferdous</h1>
 <h3 align="center">A Full Stack Developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibferdous&label=Profile%20views&color=0e75b6&style=flat" alt="hasibferdous" /> </p>
 
