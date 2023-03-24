@@ -29,7 +29,7 @@
 
 <hr>
 <p><img align="left"  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibferdous&show_icons=true&locale=en&layout=compact" alt="hasibferdous" /></p>
-
+<hr>
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=hasibferdous&show_icons=true&locale=en" alt="hasibferdous" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibferdous&" alt="hasibferdous" /></p>
