@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hasibferdous.netlify.app/](https://hasibferdous.netlify.app/)
 
-- 💬 Ask me about **React, MERN Stack**
-
 - 📫 How to reach me **hasibferdous.ict@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RM8hKx9CREFnkj03EQRc6ezjy418Gir3/view?usp=sharing](https://drive.google.com/file/d/1RM8hKx9CREFnkj03EQRc6ezjy418Gir3/view?usp=sharing)
