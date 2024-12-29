@@ -1,20 +1,12 @@
- ![MasterHead](https://media.licdn.com/dms/image/D5616AQFeYssUxq8wWQ/profile-displaybackgroundimage-shrink_350_1400/0/1670493591271?e=1684972800&v=beta&t=dUbLBaP8SId7Ksa4chDVE-2rn39VzWFXOFvhLRYd3rM)
 
-<h1 align="center">Hi 👋, I'm H. M. Hasib Ferdous</h1>
-<h3 align="center">A Full Stack Developer from Bangladesh</h3>
 
 <!-- <img align="right" alt="Coding" width="1100" src=""> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibferdous&label=Profile%20views&color=0e75b6&style=flat" alt="hasibferdous" /> </p>
 
 
-- 🌱 I’m currently learning **Next.JS, Redux**
-
-- 👨‍💻 All of my projects are available at [https://hasibferdous.netlify.app/](https://hasibferdous.netlify.app/)
-
 - 📫 How to reach me **hasibferdous.ict@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RM8hKx9CREFnkj03EQRc6ezjy418Gir3/view?usp=sharing](https://drive.google.com/file/d/1RM8hKx9CREFnkj03EQRc6ezjy418Gir3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
